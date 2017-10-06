@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas id="mycanvas" width="200px" height="100px" style=" border:10px solid blue"
+</canvas>
+
+<script>
+ varc= docment.getelement by id ("mycanvas");
+ var ctx= c.getcontest("2d");
+ ctx .font="30px arial"
+ctx.strokeText("Hello World",10,50);
+</script>
+
+</body>
+</html>
+  
+
